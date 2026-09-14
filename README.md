@@ -29,7 +29,7 @@ The classifier is explicitly told to pick exactly one label from `("revenue", "c
 
 ## Frontend
 
-A treasury dashboard for this contract lives in a separate repo, submitted separately as a Project: `<pending>`.
+A treasury dashboard for this contract lives in a separate repo, submitted separately as a Project: [github.com/HarrisonJL/ledger-classifier-dashboard](https://github.com/HarrisonJL/ledger-classifier-dashboard).
 
 ## Development
 
